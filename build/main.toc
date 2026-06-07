@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{}%
+\contentsline {section}{\numberline {2}Physical Background}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Equations of Motion}{3}{}%
+\contentsline {subsection}{\numberline {2.2}Dissipation Potentials}{3}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}Rolling friction regime}{4}{}%
+\contentsline {subsubsection}{\numberline {2.2.2}Air friction regime}{4}{}%
+\contentsline {subsection}{\numberline {2.3}Observables}{5}{}%
+\contentsline {section}{\numberline {3}Measured Quantities}{5}{}%
+\contentsline {section}{\numberline {4}Experimental Setup}{6}{}%
+\contentsline {section}{\numberline {5}Analysis}{8}{}%

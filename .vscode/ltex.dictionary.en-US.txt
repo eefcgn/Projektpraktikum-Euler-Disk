@@ -1,0 +1,11 @@
+Lennard-Jones
+ansatz
+Hermitian
+antibonding
+upperboundry
+Antibonding
+homonuclear
+ungerade
+gerade
+wavefunction
+wavefunctions
